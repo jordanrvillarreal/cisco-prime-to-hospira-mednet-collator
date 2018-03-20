@@ -1,4 +1,4 @@
-# cisco-prime-to-hospira-mednet-collator
+# cisco-prime-to-hospira-mednet-correlator
 Hospira MedNet contains the ability for an IV pump to report the MAC address of the radio it has connected to.  This data is uploaded into MedNet and can be reported on through the software.  This can be helpful for trying to trace a pumps location within a facility so that someone looking for the pump knows a good vicinity of where to go.  
 
 Issues:
